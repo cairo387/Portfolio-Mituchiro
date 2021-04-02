@@ -15,4 +15,11 @@ NEWS欄からは主に身体に関係する記事やニュースを閲覧する�
 30～50代男女
 ###  Main Usage Scenes
 ・自宅で整体を受けたい場合
-##  Design Documents 
+##  Design Documents
+
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
