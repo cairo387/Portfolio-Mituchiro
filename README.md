@@ -17,12 +17,16 @@ NEWS欄からは主に身体に関係する記事やニュースを閲覧する�
 ・自宅で整体を受けたい場合
 ##  :page_facing_up:Design Documents
 ### ER図
-![みつかいろER図](https://user-images.githubusercontent.com/77834661/113472829-988d3000-94a0-11eb-9f01-45dc54326f8f.png)<br>
-PDF形式:[みつかいろER図.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6252151/ER.pdf)
+![みつかいろER図](https://user-images.githubusercontent.com/77834661/113500865-66410880-955c-11eb-87bc-a72843e8fec8.png)<br>
+PDF形式:[みつかいろER図.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6254061/ER.pdf)
 ###  テーブル定義書
-PDF形式:[みつかいろ_テーブル定義書.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6252160/_.pdf)<br>
+PDF形式:[みつかいろ_テーブル定義書.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6253925/_.pdf)<br>
 リンク:https://docs.google.com/spreadsheets/d/14u_pDa8rxLN_odzdcaMesWMqbyaD173zYgDCxyRotxk/edit?usp=sharing
-
+###  アプリケーション詳細設計書
+<img width="361" alt="アプリケーション詳細設計書_みつかいろ" src="https://user-images.githubusercontent.com/77834661/113501350-4ced8b80-955f-11eb-847e-826811ecf55a.png"><br>
+リンク：https://drive.google.com/file/d/14DjWKLnYqGfbTCJKWxfmMc52Z7mlr4Bx/view?usp=sharing
+###  ワイヤーフレーム
+PDF形式:[ワイヤーフレーム_みつかいろ.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6254055/_.pdf)
 
 ##  :mag:Challenge List
 https://docs.google.com/spreadsheets/d/16_N8qmPcaEYF6UqGJHdmsh1gLFV1IKXOHppPOgin4js/edit?usp=sharing
