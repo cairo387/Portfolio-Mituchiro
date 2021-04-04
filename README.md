@@ -23,7 +23,7 @@ PDF形式:[みつかいろER図.pdf](https://github.com/cairo387/Portfolio-Mituc
 PDF形式:[みつかいろ_テーブル定義書.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6253925/_.pdf)<br>
 :link:リンク:https://docs.google.com/spreadsheets/d/14u_pDa8rxLN_odzdcaMesWMqbyaD173zYgDCxyRotxk/edit?usp=sharing
 ###  アプリケーション詳細設計書
-<img width="361" alt="アプリケーション詳細設計書_みつかいろ" src="https://user-images.githubusercontent.com/77834661/113501350-4ced8b80-955f-11eb-847e-826811ecf55a.png"><br>
+![アプリケーション詳細設計_みつかいろ](https://user-images.githubusercontent.com/77834661/113509476-c356b180-9590-11eb-8a2b-4c54942ad3bc.png)<br>
 :link:リンク:https://drive.google.com/file/d/14DjWKLnYqGfbTCJKWxfmMc52Z7mlr4Bx/view?usp=sharing
 ###  ワイヤーフレーム
 PDF形式:[ワイヤーフレーム_みつかいろ.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6254055/_.pdf)
