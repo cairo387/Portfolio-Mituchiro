@@ -29,7 +29,7 @@ PDF形式:[みつかいろ_テーブル定義書.pdf](https://github.com/cairo38
 PDF形式:[ワイヤーフレーム_みつかいろ.pdf](https://github.com/cairo387/Portfolio-Mituchiro/files/6254055/_.pdf)
 
 ##  :mag:Challenge List
-https://docs.google.com/spreadsheets/d/16_N8qmPcaEYF6UqGJHdmsh1gLFV1IKXOHppPOgin4js/edit?usp=sharing
+チャレンジリストリンク:https://docs.google.com/spreadsheets/d/16_N8qmPcaEYF6UqGJHdmsh1gLFV1IKXOHppPOgin4js/edit?usp=sharing
 
 ## :octocat:Development Environment
 - OS：Linux(CentOS)
